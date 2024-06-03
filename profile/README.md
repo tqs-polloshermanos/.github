@@ -13,6 +13,7 @@ Comprehensive Restaurant Ordering System for the Testing and Software Quality Co
 
 ## Modules
 
+* [PollosHermanos Documentation](https://github.com/tqs-polloshermanos/Documentation): Documentation.
 * [PollosHermanos Backend](https://github.com/tqs-polloshermanos/PollosHermanos-Backend): Spring Boot backend application.
 * [PollosHermanos Frontend](https://github.com/tqs-polloshermanos/PollosHermanos-Frontend): Frontend websites in ReactJS, including:
   * [`Frontend/polloshermanos`](https://github.com/tqs-polloshermanos/PollosHermanos-Frontend/tree/main/Frontend/polloshermanos): the main frontend site intended for clients
@@ -23,4 +24,4 @@ Comprehensive Restaurant Ordering System for the Testing and Software Quality Co
 
 * Static Analysis Dashboard: [Sonarcloud](https://sonarcloud.io/organizations/tqs-polloshermanos/projects)
 * Project Backlog: [Jira Board](https://mateusz-kubiak.atlassian.net/jira/software/projects/NA/boards/2?atlOrigin=eyJpIjoiZTIzOWE5MTZjMjQ3NDg3M2E2NjJmODM5MTU3MDdmYzIiLCJwIjoiaiJ9)
-* API documentation: [Swagger](https://app.swaggerhub.com/apis/ArturDenderski/polloshermanos/1.0.0)
+* API documentation: [Swagger]([https://app.swaggerhub.com/apis/ArturDenderski/polloshermanos/1.0.0](https://app.swaggerhub.com/apis/MARIAJOAOMS03/polloshermanos/1))
