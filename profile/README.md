@@ -24,4 +24,4 @@ Comprehensive Restaurant Ordering System for the Testing and Software Quality Co
 
 * Static Analysis Dashboard: [Sonarcloud](https://sonarcloud.io/organizations/tqs-polloshermanos/projects)
 * Project Backlog: [Jira Board](https://mateusz-kubiak.atlassian.net/jira/software/projects/NA/boards/2?atlOrigin=eyJpIjoiZTIzOWE5MTZjMjQ3NDg3M2E2NjJmODM5MTU3MDdmYzIiLCJwIjoiaiJ9)
-* API documentation: [Swagger]([https://app.swaggerhub.com/apis/MARIAJOAOMS03/polloshermanos/1])
+* API documentation: [Swagger](https://app.swaggerhub.com/apis/MARIAJOAOMS03/polloshermanos/1)
